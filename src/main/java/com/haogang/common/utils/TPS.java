@@ -5,6 +5,9 @@ import java.math.BigInteger;
 import java.util.Date;
 
 public class TPS {
+	/**
+	 * 实体类
+	 */
 
 	private Integer id;
 	private String name;
